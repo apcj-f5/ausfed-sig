@@ -1,0 +1,3 @@
+[submodule "hapi-fhir"]
+	path = hapi-fhir
+	url = https://github.com/shsingh/hapi-fhir
